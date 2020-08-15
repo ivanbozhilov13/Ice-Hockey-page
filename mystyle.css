@@ -53,6 +53,23 @@ body{
 }
 
 /*Styling newsletter*/
+#newsletter{
+    margin-top: 60px;
+}
 
-
+#newsletter h4{
+    float: left;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#form-1{
+    float: right;
+}
+#button{
+    background-color: #1e90ff;
+    border-radius: 5px;
+}
+#form-1 input[type="email"]{
+    border-radius: 1px;
+}
 
