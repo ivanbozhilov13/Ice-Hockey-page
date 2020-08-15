@@ -73,9 +73,31 @@ body{
     border-radius: 1px;
 }
 
-
+/*Styling the flex-container*/
+#presenting{
+    margin-top: 100px;
+    text-align: center;
+    text-decoration: underline;
+    color: #0982fcf5;
+}
 .flex-container{
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
+    margin-top: 50px;
+}
+.box{
+    border: 3px red solid;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/*Styling the footer*/
+#footer{
+    margin-top: 70px;
+    text-align: center;
+    padding: 20px;
+    background-color: dodgerblue;
+    width: 100%;
 }
