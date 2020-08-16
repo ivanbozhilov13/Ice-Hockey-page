@@ -44,7 +44,7 @@ body{
     color: #1e90ff;
 }
 
-/*Styling the general-info*/
+/*Styling the general-info #index.html*/
 #general-info h1{
     text-align: center;
     font-size: 40px;
@@ -52,7 +52,7 @@ body{
     color: #ff0000b7;
 }
 
-/*Styling newsletter*/
+/*Styling newsletter #index.html*/
 #newsletter{
     margin-top: 60px;
 }
@@ -73,7 +73,39 @@ body{
     border-radius: 1px;
 }
 
-/*Styling the flex-container*/
+/*Styling the flex-container + imgs #leagues.html*/
+#nhl-logo{
+    width: 300px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#nhl h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#khl-logo{
+    width: 300px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#khl{
+    margin-top: 100px;
+}
+#khl h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ff0000ea;
+    text-decoration: underline;
+}   
+
+
 #presenting{
     margin-top: 100px;
     text-align: center;
@@ -93,7 +125,7 @@ body{
     margin-bottom: 40px;
 }
 
-/*Styling the footer*/
+/*Styling the footer. Global for all pages*/
 #footer{
     margin-top: 70px;
     text-align: center;
