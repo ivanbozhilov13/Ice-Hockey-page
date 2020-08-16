@@ -140,6 +140,34 @@ body{
     padding: 10px;
 }
 
+/*Styling the last page #superstars*/
+#superstars h1{
+    text-align: center;
+    color: #ff0000dc;
+    margin-top: 60px;
+    font-size: 40px;
+}
+#superstars p{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+#superstars-img{
+    width: 100%;
+    margin-top: 60px;
+}
+#superstars-list{
+    margin-top: 60px;
+}
+#superstars-list h3{
+    color: #1e90ff;
+    font-size: 34px;
+    text-decoration: underline;
+}
+
+
+
+
 
 
 
