@@ -193,10 +193,14 @@ body{
     text-align: center;
     margin-top: 70px;
 }
+#great-players h1{
+    text-align: center;
+    color: #ff0000f1;
+    font-size: 40px;
+}
 #greatest-img{
     width: 100%;
 }
-
 
 
 
