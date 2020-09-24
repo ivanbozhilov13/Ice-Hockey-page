@@ -111,7 +111,7 @@ body{
 }   
 
 #presenting{
-    margin-top: 100px;
+    margin-top: 70px;
     text-align: center;
     text-decoration: underline;
     color: #0982fcf5;
@@ -222,24 +222,6 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*Styling the footer. Global for all pages*/
 #footer{
