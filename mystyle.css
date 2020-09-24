@@ -110,7 +110,6 @@ body{
     text-decoration: underline;
 }   
 
-
 #presenting{
     margin-top: 100px;
     text-align: center;
@@ -204,6 +203,27 @@ body{
 }
 
 /*Styling greatest-team section*/
+#greatest-teams{
+    margin-top: 80px;
+}
+
+#greatest-teams h1{
+    text-align: center;
+    font-weight: bold;
+    color: #ff0000f1;
+    font-size: 40px;
+}
+
+#stanley-cup-winners{
+    margin-top: 80px;
+    border-radius: 20px;
+    height: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
 
 
